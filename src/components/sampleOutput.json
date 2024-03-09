@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter, Jess Weatherbed",
+            "title": "Apple hit with first ever EU fine following Spotify complaint - The Verge",
+            "description": "Apple has been fined by European Union antitrust regulators and told to allow developers to link users out to their own websites to sign up for their services.",
+            "url": "https://www.theverge.com/2024/3/4/24005938/european-commission-antitrust-apple-investigation-anti-steering-rules-app-developers",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dFDl6EcIGxvqgYabdEPxrd1w3QQ=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925967/acastro_STK045_02.jpg",
+            "publishedAt": "2024-03-04T12:09:36Z",
+            "content": "Apple hit with first-ever EU fine following Spotify complaint\r\nApple hit with first-ever EU fine following Spotify complaint\r\n / Five years after Spotify first complained about Apples App Store pract… [+5437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Florida Today",
+            "title": "Crew-8 launch tonight: What to know about NASA-SpaceX liftoff from Cape - Florida Today",
+            "description": null,
+            "url": "https://www.floridatoday.com/story/tech/science/space/2024/03/03/spacex-nasa-crew-8-launch-day-heres-information-on-todays-launch-from-cape-canaveral-florida/72825894007/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-04T11:54:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "I worked exclusively in Vision Pro for a week—here's how it went - Ars Technica",
+            "description": "The biggest problem is meetings, as Personas are a bit of a letdown.",
+            "url": "https://arstechnica.com/gadgets/2024/03/i-worked-exclusively-in-vision-pro-for-a-week-heres-how-it-went/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Vision-Pro-windows-760x380.png",
+            "publishedAt": "2024-03-04T11:45:46Z",
+            "content": "4\r\n<ul><li>\r\n A close-up look at the Vision Pro from the front. \r\n</li><li>\r\n There are two displays inside the Vision Pro, one for each eye. Each offers just under 4K resolution. \r\n</li><li>\r\n This … [+3867 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Samuel Joseph",
+            "title": "Boston Celtics embarrass the Golden State Warriors in 52-point demolition, win 11th straight game - CNN",
+            "description": "The Boston Celtics won their 11th game in a row on Sunday, rolling to a stunning 52-point rout, 140-88, of the Golden State Warriors.",
+            "url": "https://www.cnn.com/2024/03/04/sport/boston-celtics-golden-state-warriors-blowout-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-03-03t232217z-86142889-mt1usatoday22686259-rtrmadp-3-nba-golden-state-warriors-at-boston-celtics.jpeg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-04T11:39:00Z",
+            "content": "The Boston Celtics won their 11th game in a row on Sunday, rolling to a stunning 52-point rout, 140-88, of the Golden State Warriors.\r\nIn a rematch between the two teams that contested the 2022 NBA F… [+3124 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Nikki Haley wins Washington, D.C., Republican primary, in small symbolic boost - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/us/nikki-haley-wins-washington-dc-republican-primary-edison-research-projects-2024-03-04/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-04T11:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Will Dunham",
+            "title": "Scientists reveal secrets of Earth's magnificent desert star dunes - Reuters",
+            "description": "They are among the wonders of our deserts: star dunes, the vaguely pyramid-shaped sand formations up to about 1,000 feet (300 meters) tall with arms stretching out from a central peak to give them a star-like appearance when viewed from above.",
+            "url": "https://www.reuters.com/science/scientists-reveal-secrets-earths-magnificent-desert-star-dunes-2024-03-04/",
+            "urlToImage": "https://www.reuters.com/resizer/VPCXYxkFaQHA69j9hl7fB_8JtV4=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYNBO2ERRJKWHAIOIPCCJAUDME.jpg",
+            "publishedAt": "2024-03-04T11:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Edelman",
+            "title": "Why North Carolina is set to host the biggest governor’s race of 2024 - NBC News",
+            "description": "North Carolina is gearing up to host the biggest governor's race of the 2024 election between Democrat Josh Stein and Republican Mark Robinson.",
+            "url": "https://www.nbcnews.com/politics/2024-election/north-carolina-biggest-governor-race-rcna140863",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240228-split-nc-governor-ch-0844-ead832.jpg",
+            "publishedAt": "2024-03-04T11:00:41Z",
+            "content": "Even before Tuesdays primary votes are tallied, North Carolina is gearing up to host the most pivotal and most expensive governors race in the country this fall.\r\nLeading in the polls and in fundrais… [+8678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Josh Schafer",
+            "title": "February jobs report and Powell's semi-annual testimony: What to know this week - Yahoo Finance",
+            "description": "With markets entering another week at record highs, updates on the labor market and a testimony from Federal Reserve chair Jerome Powell will greet investors...",
+            "url": "https://finance.yahoo.com/news/february-jobs-report-and-powells-semi-annual-testimony-what-to-know-this-week-130035524.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NtxkY_Mc1zyFw63sOMKTPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/648d2450-d80d-11ee-965e-a9b10abfe203",
+            "publishedAt": "2024-03-04T10:51:06Z",
+            "content": "The stock market keeps hitting new record highs. \r\nThe S&amp;P 500 (^GSPC) and Nasdaq (^IXIC) both ended last week at their highest levels ever. The S&amp;P 500 has now risen for 16 of the last 18 we… [+6560 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Kremlin says German recording shows intent to strike Russia, asks whether Scholz in charge - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/europe/kremlin-says-german-army-discussing-strikes-russia-asks-if-scholz-is-control-2024-03-04/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-04T10:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jaclyn Diaz",
+            "title": "The legal tech industry faces its own #MeToo movement - NPR",
+            "description": "Fed up with what they see as their industry's tolerance of men's transgressions and predatory behavior, women are telling their stories — in person, in group chats and on LinkedIn.",
+            "url": "https://www.npr.org/2024/03/04/1234044153/metoo-legal-tech-legalweek",
+            "urlToImage": "https://media.npr.org/assets/img/2024/02/26/gettyimages-1299986427_wide-5ef774e490d36dec9acba12c691f81e0604bcedd-s1400-c100.jpg",
+            "publishedAt": "2024-03-04T10:28:04Z",
+            "content": "Many women, as well as some men, took to social media to share tales of sexual harassment and assault during glitzy legal tech events.\r\nLuke Chan/Getty Images\r\nStefanie Bier was looking forward to ca… [+15042 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Helen Regan",
+            "title": "Children starve to death in Gaza, Palestinian officials say, as Israel-Hamas ceasefire deal sticking points remain - CNN",
+            "description": "A growing number of children in Gaza are dying from dehydration and malnutrition, the Palestinian health ministry said Sunday, amid desperate conditions due to Israel’s throttling of aid and destruction of the besieged enclave — reinforcing the urgency of thi…",
+            "url": "https://www.cnn.com/2024/03/04/middleeast/gaza-children-dying-malnutrition-israel-ceasefire-talks-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2038834591.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-04T10:05:00Z",
+            "content": "A growing number of children in Gaza are dying from dehydration and malnutrition, the Palestinian health ministry said Sunday, amid desperate conditions due to Israels throttling of aid and destructi… [+5855 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "Florida GOP senators defend DeSantis' surgeon general amid measles outbreak - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/03/04/florida-measles-ladapo-desantis-00144561",
+            "urlToImage": null,
+            "publishedAt": "2024-03-04T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Did the last Budget deliver growth and cheap beer? - BBC.com",
+            "description": "The previous Budget was meant to help growth, investment, pubs and parents. Has it worked so far?",
+            "url": "https://www.bbc.com/news/uk-politics-68370060",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10902/production/_132724876_hunt_lozenge-nc.png",
+            "publishedAt": "2024-03-04T09:39:32Z",
+            "content": "By Anthony ReubenBBC Verify\r\nChancellor Jeremy Hunt will set out his Budget on 6 March, almost a year after his first spring Budget.\r\nIn the 2023 Budget, he announced measures - including on growth, … [+6878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Rwanda flights bill begins tricky House of Lords stage - BBC.com",
+            "description": "Peers in Parliament will try to change Rishi Sunak's planned law aimed at deterring channel crossings.",
+            "url": "https://www.bbc.com/news/uk-politics-68466383",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12311/production/_132831547_20a8ff5e08894f85bafed0a712b32fc013781db0.jpg",
+            "publishedAt": "2024-03-04T09:37:21Z",
+            "content": "By Chris MasonPolitical editor, BBC News\r\nThe government's attempts to send some asylum seekers to Rwanda will be voted on by the House of Lords later.\r\nThere will be votes this afternoon and this ev… [+3112 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MARK SHERMAN",
+            "title": "The Supreme Court could decide Monday whether Trump can be barred from the 2024 ballot - The Associated Press",
+            "description": "Former President Donald Trump could learn Monday whether the Supreme Court will let him appear on this year’s ballot as he tries to close in on the Republican presidential nomination. The justices are expected to decide at least one case Monday, with signs po…",
+            "url": "https://apnews.com/article/supreme-court-trump-insurrection-election-colorado-51e79c0f03013034c8a042cb278b6446",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e2c3b46/2147483647/strip/true/crop/4496x2529+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F7a%2F6e3e3698b75d472cf44bd82c9f1a%2F4913e5ff250b4ade971c32f599ef785a",
+            "publishedAt": "2024-03-04T09:23:00Z",
+            "content": "WASHINGTON (AP) Former President Donald Trump could learn Monday whether the Supreme Court will let him appear on this years ballot as the leading Republican presidential candidate tries to close in … [+2777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Becky G, Sebastian Lletget Still Going Strong Despite Cheating Drama - TMZ",
+            "description": "Becky G and Sebastian Lletget are looking awfully cozy and coupled up in Frisco, TX  ... despite dealing with cheating drama last year.",
+            "url": "https://www.tmz.com/2024/03/04/becky-g-sebastian-lletget-relationship-cheating-rumors/",
+            "urlToImage": "https://imagez.tmz.com/image/67/16by9/2024/02/27/672edf6c2e6d421f9ea23389c801a128_xl.jpg",
+            "publishedAt": "2024-03-04T09:00:00Z",
+            "content": "Becky Gand Sebastian Lletgetare looking awfully cozy and coupled up in Frisco, TX  ... despite dealing with cheating drama last year.\r\nAll signs point to them still going strong, based on these image… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe",
+            "title": "Crews battling massive Texas wildfires get a crucial opportunity to contain flames as cool air and gentler winds arrive Monday - CNN",
+            "description": "Firefighters racing to wrangle the largest blaze in Texas history could get their best chance in days to contain the flames as a cold front sweeps into the region Monday where hot air and raging winds have fueled the infernos reducing entire neighborhoods to …",
+            "url": "https://www.cnn.com/2024/03/03/us/texas-smokehouse-creek-wildfire-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240302171218-tx-cattle-fire-thumb-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-04T08:53:00Z",
+            "content": "Firefighters racing to wrangle the largest blaze in Texas history could get their best chance in days to contain the flames as a cold front sweeps into the region Monday where hot air and raging wind… [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Lifestyle Desk",
+            "title": "Colon cancer in younger people: Keep an eye out for 5 important indicators - The Times of India",
+            "description": "Colon cancer is increasingly affecting young people due to poor lifestyle choices. Early detection is crucial for effective treatment. Symptoms may in",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/colon-cancer-in-younger-people-keep-an-eye-out-for-5-important-indicators/articleshow/108201032.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108200966,width-1070,height-580,imgsize-1307574,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-04T08:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "Japan’s Nikkei 225 surpasses 40,000 for the first time while China gets ready to unveil GDP target - CNN",
+            "description": "Japan’s Nikkei 225 index jumped above 40,000 points for the first time on Monday, extending a historic rally that analysts say may have much further to run.e.",
+            "url": "https://www.cnn.com/2024/03/04/business/japans-nikkei-surpasses-40000-china-stocks-npc-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2049067705.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-04T07:43:00Z",
+            "content": "Asian markets have started the week on an upbeat note.\r\nJapans Nikkei 225 index jumped above 40,000 points for the first time on Monday, extending a historic rally that analysts say may have much fur… [+2999 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy",
+            "title": "‘Two sessions’: China scraps a decades-long political tradition as Xi tightens control amid economic woes - CNN",
+            "description": "Thousands of delegates from across China are gathering in Beijing this week for the start of the country’s most prominent annual political event, where leaders will signal how they plan to steer the world’s second largest economy in the year ahead — and try t…",
+            "url": "https://www.cnn.com/2024/03/04/china/china-two-sessions-xi-jinping-economic-challenges-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1435758127.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-04T07:35:00Z",
+            "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nThousands of delegates from across China are g… [+9046 chars]"
+        }
+    ]
+}
